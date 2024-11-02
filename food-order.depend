@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1719512024 source:c:\users\laptop gallery\desktop\food-order\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<map>
+	<algorithm>
+
+1719689994 source:c:\users\ashir\desktop\123\food-order\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+
+1719840333 source:c:\users\lenovo\desktop\oop final project\oop final project\food-order\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+
+1719845822 source:c:\users\lenovo\desktop\oop final project _updated\oop final project\food-order\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+
+1719886915 source:c:\users\ashir\desktop\oop final project _updated\oop final project _updated\oop final project\food-order\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+

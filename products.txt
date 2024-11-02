@@ -1,0 +1,6 @@
+Sushi 200
+Chocolate 200
+Pizza 3000
+Kitkat 500
+Zinger 200
+Snickers 400
